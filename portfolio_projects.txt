@@ -37,6 +37,8 @@ TECHNICAL DETAILS:
 - Clean terminal interface design
 - Modular code structure
 
+LINKS:
+- LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7395471330332065792/
 
 FUTURE IMPROVEMENTS:
 - Add data visualization (Week 43 - Data Visualization)
@@ -76,5 +78,6 @@ Goal: Build 50+ projects by day 420
 Current: 1/50 
 
 ================================================================================
+
 
 
