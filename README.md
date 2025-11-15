@@ -81,6 +81,7 @@ This is my first portfolio project from Week 1 of the Elite Engineer Roadmap. Th
 **[Misbah]**
 - GitHub: [@Misbah-riaz5](https://github.com/Misbah-riaz5)
 - LinkedIn: [Misbah Riaz](https://www.linkedin.com/in/misbah-riaz7/)
+- LinkedIn Post: https://www.linkedin.com/posts/misbah-riaz7_newproject-100daysofcode-python-activity-7395469682826412032-Y4Nu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFA5tncBklGdKurfraprFEHy4RD0-DVfi8o
 - Email: rmisbah218@gmail.com
 
 ##  Project Information
@@ -95,5 +96,6 @@ This is my first portfolio project from Week 1 of the Elite Engineer Roadmap. Th
 Copyright [2025] [Misbah Riaz]. All rights reserved.
 This project may not be copied, modified, or distributed without permission.
 ---
+
 
 ⭐ **If you found this project helpful, please give it a star!**
