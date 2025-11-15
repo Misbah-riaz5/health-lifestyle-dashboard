@@ -1,0 +1,80 @@
+========================================
+      MY CODING PORTFOLIO TRACKER
+=========================================
+
+ELITE ENGINEER ROADMAP - 420 Day Journey
+Start Date: November 6, 2025
+Current Progress: Week 1 Complete
+
+================================================================================
+                              PROJECT LOG
+================================================================================
+
+--------------------------------------------------------------------------------
+PROJECT #1: HEALTH & LIFESTYLE DASHBOARD
+--------------------------------------------------------------------------------
+Completion Date: 11-15-2025
+Week: 1
+Language: Python
+Status:  Complete
+
+DESCRIPTION:
+Personal wellness tracking calculator that analyzes daily habits and projects
+them over time periods (weekly, monthly, yearly). Includes coffee consumption,
+calorie intake, and exercise tracking with health recommendations.
+
+SKILLS DEMONSTRATED:
+- User input/output handling
+- Type conversion (int, float, str)
+- Mathematical calculations and projections
+- String formatting with f-strings
+- Professional code documentation
+- Real-world problem solving
+
+TECHNICAL DETAILS:
+- Input validation
+- Data calculations across multiple time periods
+- Clean terminal interface design
+- Modular code structure
+
+
+FUTURE IMPROVEMENTS:
+- Add data visualization (Week 43 - Data Visualization)
+- Implement file storage (Week 8 - File Handling)
+- Create web interface (Phase 2 - Web Foundations)
+- Add database integration (Phase 8 - Databases)
+- Build API version (Phase 7 - Backend Engineering)
+
+PORTFOLIO READINESS:  (4/5 stars)
+- Unique application 
+- Clean code 
+- Professional documentation 
+- Real-world use case 
+- Needs enhancement for full portfolio 
+
+================================================================================
+                           UPCOMING PROJECTS
+================================================================================
+
+Week 2 - Text Formatter Tool (Strings)
+Week 3 - Smart Health Dashboard v2.0 (Conditionals)
+Week 4 - Number Guessing Game (Loops)
+Week 6 - Todo List Manager (Lists)
+Week 7 - Student Grade Manager (Dictionaries)
+
+================================================================================
+                              NOTES
+================================================================================
+
+What I'm learning:
+- Building projects from scratch
+- Writing professional documentation
+- Creating portfolio-worthy code
+- Presenting technical work to employers
+
+Goal: Build 50+ projects by day 420
+Current: 1/50 
+
+================================================================================
+
+
